@@ -1,5 +1,10 @@
 ![Claudia Alves](https://github.com/Hyhen115/Hyhen115/assets/156307404/53da56cc-591f-45de-9e24-0dc633e0528b)
 # I'm Henry 👋
+- 🔭 I’m currently working on anything i think that is interesting
+- 🌱 I’m currently learning APP development and some AI stuff
+- 💬 Ask me about anything you want
+- 📫 How to reach me: hyhen115@gmail.com
+- ⚡ Fun fact: i was major in Statistics
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Hyhen115&show_icons=true&theme=tokyonight"/>
 
