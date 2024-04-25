@@ -1,7 +1,11 @@
 ![Claudia Alves](https://github.com/Hyhen115/Hyhen115/assets/156307404/53da56cc-591f-45de-9e24-0dc633e0528b)
 # I'm Henry 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyhen115)](https://github.com/Hyhen115/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Hyhen115&show_icons=true&theme=tokyonight"/>
+
+<img alt="most used language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyhen115&layout=compact"/>
+
+
 
 <!--
 **Hyhen115/Hyhen115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
