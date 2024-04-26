@@ -10,7 +10,11 @@
 
 <img alt="most used language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyhen115&layout=compact"/>
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,swift,py,r,js,css,html" />
+  </a>
+</p>
 
 <!--
 **Hyhen115/Hyhen115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
