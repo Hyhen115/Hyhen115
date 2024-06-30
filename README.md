@@ -1,4 +1,4 @@
-![Claudia Alves](https://github.com/Hyhen115/Hyhen115/assets/156307404/53da56cc-591f-45de-9e24-0dc633e0528b)
+![Claudia Alves](https://github.com/Hyhen115/Hyhen115/assets/156307404/1666baea-5b17-4d33-a2c5-e158870183f9)
 # I'm Henry 👋
 - 🔭 I’m currently working on anything i think that is interesting
 - 🌱 I’m currently learning APP development and some AI stuff
