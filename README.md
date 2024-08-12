@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning APP development and some AI stuff
 - 💬 Ask me about anything you want
 - 📫 How to reach me: hyhen115@gmail.com
-- ⚡ Fun fact: i was major in Data Science
+- ⚡ Fun fact: i majored in Data Science
 - 😀 Know More About me: https://hyhen115.github.io/
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Hyhen115&show_icons=true&theme=tokyonight"/>
