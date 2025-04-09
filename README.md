@@ -1,11 +1,11 @@
 ![Claudia Alves](https://github.com/Hyhen115/Hyhen115/assets/156307404/1666baea-5b17-4d33-a2c5-e158870183f9)
 # I'm Henry 👋
 - 🔭 I’m currently working on anything i think that is interesting
-- 🌱 I’m currently learning APP development and some AI stuff
+- 🌱 I’m currently learning blockchain and Smart Contract development and some AI stuff
 - 💬 Ask me about anything you want
 - 📫 How to reach me: hyhen115@gmail.com
 - ⚡ Fun fact: i majored in Data Science
-- 😀 Know More About me: https://hyhen115.github.io/
+- 😀 Know More About me: https://hyhen115.github.io/  <- MY PERSONAL WEBSITE
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Hyhen115&show_icons=true&theme=tokyonight"/>
 
