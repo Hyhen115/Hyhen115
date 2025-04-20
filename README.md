@@ -6,6 +6,7 @@
 - 📫 How to reach me: hyhen115@gmail.com
 - ⚡ Fun fact: i majored in Data Science and Now in Computer Science
 - 😀 Know More About me: https://hyhen115.github.io/  <- MY PERSONAL WEBSITE
+- 😆 Check out my Crowfunding Dapp: https://hyhen115.github.io/DeFunds
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Hyhen115&show_icons=true&theme=tokyonight"/>
 
