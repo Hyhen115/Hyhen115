@@ -1,7 +1,7 @@
 ![Claudia Alves](https://github.com/Hyhen115/Hyhen115/assets/156307404/1666baea-5b17-4d33-a2c5-e158870183f9)
 # I'm Henry 👋
 - 🔭 I’m currently working on anything i think that is interesting
-- 🌱 I’m currently learning blockchain and Smart Contract development and some AI stuff
+- 🌱 I’m currently learning blockchain, Smart Contract development and AI agent stuff
 - 💬 Ask me about anything you want
 - 📫 How to reach me: hyhen115@gmail.com
 - ⚡ Fun fact: i majored in Data Science and Now in Computer Science
